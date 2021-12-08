@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vicmaburrito.visitor-badge)
+<!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vicmaburrito.visitor-badge)-->
 
 ### Hi there 👋
 <!--
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicmaburrito&layout=compact)](https://github.com/vicmaburrito/README.md)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicmaburrito&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+-->
